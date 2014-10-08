@@ -20,7 +20,7 @@ def popofunction(x):
   
   .. note::
   
-    This function is not for pee approch !
+    This function is not suitable for the approach pee !
     
   .. image:: picture/singe.png
   
